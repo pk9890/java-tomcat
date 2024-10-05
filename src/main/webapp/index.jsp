@@ -61,7 +61,7 @@
         
         <div class="success">
             <h4>Deployment Status: Successful</h4>
-            <p>Version: 1.0</p>
+            <p>Version: 2.0</p>
             <p>The application has been successfully deployed using Jenkins CI/CD pipeline, ensuring a smooth and automated process.</p>
         </div>
 
