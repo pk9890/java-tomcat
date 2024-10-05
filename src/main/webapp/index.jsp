@@ -45,5 +45,5 @@
 </head>
 <body>
     <h1>Welcome to the Colorful Java Web App</h1>
-    <p>Enter your name and see a greeting:</p>
+    <p>pradeep:</p>
     <form
